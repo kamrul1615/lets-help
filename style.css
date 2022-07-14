@@ -1,14 +1,101 @@
-.bg-container {
-    background-image: url(images/donation0.jpg);
+.first-section {
+    background-image: url(images/donation13.jpg);
     margin: 0%;
     padding: 0%;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+
+
 }
 
 .first-demo {
     color: white;
-    padding-left: 20%;
-    font-size: 70px;
+    padding-left: 30%;
+    padding-top: 50px;
+    font-size: 200px;
 }
+
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    color: white;
+    font-weight: 700;
+    padding-top: 10px;
+    border-radius: 10px;
+    margin-left: 50%;
+    font-size: 120px
+}
+
+.second-demo {
+    color: white;
+    padding-left: 30%;
+    padding-top: 40px;
+    font-size: 90px
+}
+
+.third-demo {
+    font-size: 100px;
+    padding-left: 30%;
+    margin-left: 5px;
+}
+
+.four-demo {
+    font-size: 80px;
+}
+
+.tk-demo {
+
+    font-size: 70px;
+    box-shadow: 10px 10px 30px gray;
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+    border-radius: 50px;
+}
+
+.other-tk {
+    font-size: 60px;
+    width: fit-content;
+    margin-left: 50%;
+    margin-bottom: 20px;
+    text-decoration: underline;
+}
+
+.section-two {
+    width: auto;
+    margin-top: 10px;
+}
+
+.five-demo {
+    font-size: 70px;
+    padding-left: 30%;
+}
+
+#h4 {
+    
+}
+.div-image{ 
+display: flex;
+font-style: normal;
+font-size:100px;
+} 
+.old-demo{ display: flex;
+border: 100%;
+margin-left: 50px;
+font-size: 100px;}
+.secondold-demo{ 
+  font-size: 80px;  
+    
+
+}.last-demo{ 
+    font-size: 60px;
+}
+.f-t{ 
+    font-size: 100px;
+    background-color: black;}
+#red{ color: red;
+text-align: center;}
+#white{ color: blueviolet;
+text-align: center;}
