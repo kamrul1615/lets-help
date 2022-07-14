@@ -1,0 +1,14 @@
+.bg-container {
+    background-image: url(images/donation0.jpg);
+    margin: 0%;
+    padding: 0%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.first-demo {
+    color: white;
+    padding-left: 20%;
+    font-size: 70px;
+}
